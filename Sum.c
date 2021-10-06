@@ -1,3 +1,4 @@
+/* this program takes two input and add them*/
 #include<stdio.h>
 
  
