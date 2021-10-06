@@ -11,7 +11,7 @@ int main() {
 
    printf("\nEnter two no: ");
 
-   scanf("%d %d", &a, &b);
+   scanf("%d %d", &a, &b);                  /*takes input*/
 
  
 
