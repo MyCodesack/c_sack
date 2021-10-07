@@ -3,13 +3,14 @@
 
  
 
-int main() {
+int main() 
+{
 
    int a, b, sum;
 
  
 
-   printf("\nEnter two no: ");
+   printf("\nEnter two no: ");  
 
    scanf("%d %d", &a, &b);
 
