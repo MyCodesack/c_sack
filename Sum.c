@@ -10,7 +10,7 @@ int main()
 
  
 
-   printf("\nEnter two no: ");  
+   printf("\nEnter two no: ");  /*this wii print this*/
 
    scanf("%d %d", &a, &b);
 
