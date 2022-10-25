@@ -11,7 +11,7 @@ int main() {
 
    printf("\nEnter two no: ");
 
-   scanf("%d %d", &a, &b);                  /*takes input*/
+   scanf("%d       %d", &a, &b);                  /*takes input*/
 
  
 
@@ -19,7 +19,7 @@ int main() {
 
  
 
-   printf("Sum : %d", sum);              /*print the sum*/
+   printf("Sum of two numbers is : %d", sum);              /*print the sum*/
 
  
 
