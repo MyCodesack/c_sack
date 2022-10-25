@@ -5,7 +5,7 @@
 
 int main() {
 
-   int a, b, sum;
+   int a, b, sum;                        /*integers a and b*/
 
  
 
