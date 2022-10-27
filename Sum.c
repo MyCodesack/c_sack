@@ -19,7 +19,7 @@ int main() {
     
  
 
-   printf("Sum of two numbers is : %d", sum);              /*print the sum*/
+   printf("Sum of two numbers is equal to: %d", sum);              /*print the sum*/
 
  
 
