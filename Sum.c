@@ -9,14 +9,14 @@ int main() {
 
  
 
-   printf("\nEnter two no: ");
+   printf("\nEnter two no: ");             /*print this on screen*/
 
    scanf("%d       %d", &a, &b);                  /*takes input*/
 
  
 
    sum = a + b;
-
+    
  
 
    printf("Sum of two numbers is : %d", sum);              /*print the sum*/
