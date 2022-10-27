@@ -1,5 +1,5 @@
 /* this program takes two input and add them*/
-#include<stdio.h>
+#include<stdio.h>               /*preprocessor directives*/
 
  
 
