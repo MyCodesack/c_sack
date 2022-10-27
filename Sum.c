@@ -1,5 +1,5 @@
 /* this program takes two input and add them*/
-#include<stdio.h>               /*preprocessor directives*/
+#include<stdio.h>               /*preprocessor directive*/
 
  
 
@@ -15,7 +15,7 @@ int main() {
 
  
 
-   sum = a + b;
+   sum = a + b;                            /*background calculation*/
     
  
 
@@ -23,6 +23,6 @@ int main() {
 
  
 
-   return(0);
+   return(0); 
 
 }
