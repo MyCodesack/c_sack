@@ -21,6 +21,7 @@ int main() {
 
    printf("Sum of two numbers is equal to: %d", sum);              /*print the sum*/
 
+
  
 
    return(0); 
